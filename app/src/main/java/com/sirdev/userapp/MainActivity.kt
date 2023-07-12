@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
     private val perPage = 10
     private var isLoading = false
 
-    private val apiBaseUrl = "https://reqres.in/api/"
+    private val apiBaseUrl = "https://reqres.in/"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
